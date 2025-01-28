@@ -7,13 +7,13 @@ This beta desktop application automates leasing and un-leasing functions within 
 - **Generate Seed**: Create a seed phrase locally on your device.  
   ⚠️ **Important**: Losing your seed phrase may result in loss of funds. The tool does not store or save your seed phrase externally, so it's your responsibility to copy and secure it before funding your address.
 
-- **Lease**: Initiate a leasing transaction towards a node.
+- **🔒 Lease**: Initiate a leasing transaction towards a node.
 
-- **Cancel Lease**: Cancel an active leasing transaction.
+- **🔓 Cancel Lease**: Cancel an active leasing transaction.
 
-- **Auto Lease**: Set a time interval (in seconds) for automatic leasing. The tool checks your balance before proceeding with the transaction.
+- **🔁 Auto Lease**: Set a time interval (in seconds) for automatic leasing. The tool checks your balance before proceeding with the transaction.
 
-- **Unlease All**: Cancel all active leasing transactions for your address in one action.
+- **🛑 Unlease All**: Cancel all active leasing transactions for your address in one action.
 
 ## Installation
 
